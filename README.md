@@ -1,1 +1,75 @@
-✨ Hi 👋, I'm Coder-o-cloudA passionate Full-Stack Developer & AI Enthusiast 🚀🔭 I’m currently working on CollabVerse & AI Systems🌱 I’m currently learning Advanced Deep Learning, MLOps, & Next.js🤔 I’m looking for help with Building scalable AI-powered Web Platforms📫 How to reach me: your-email@example.com⚡ Fun fact: I can debug code in my sleep (literally)!🔗 Connect with me<p align="left"><a href="https://www.google.com/search?q=https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a><a href="https://github.com/Coder-o-cloud" target="blank"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/github-%2523121011.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="github" /></a><a href="mailto:your-email@example.com"><img align="center" src="https://www.google.com/search?q=https://img.shields.io/badge/email-%2523D14836.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="email" /></a></p>💻 Languages and Tools<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></p>📊 GitHub Stats<p align="left"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DCoder-o-cloud%26show_icons%3Dtrue%26count_private%3Dtrue%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DCoder-o-cloud%26layout%3Dcompact%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117" /></p>🔥 GitHub Streak<p align="left"><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DCoder-o-cloud%26theme%3Dreact%26hide_border%3Dtrue%26background%3D0D1117" /></p>🌐 Portfolio👉 Visit my portfolio: https://coder-o-cloud.github.io
+✨ Hi 👋, I'm Coder-o-cloud  
+
+A passionate **Full-Stack Developer & Tech Enthusiast** from India 🚀  
+
+🔭 **I’m currently working on:**  
+- Full-Stack Web Applications  
+- Personal Portfolio & Open-Source Projects  
+
+🌱 **I’m currently learning:**  
+- React  
+- Python  
+- Django  
+- Data Structures & Algorithms  
+
+🤔 **Looking for help with:**  
+- Building AI-powered Web Platforms  
+- Scalable Backend Architectures  
+
+📫 **How to reach me:**  
+- GitHub: https://github.com/Coder-o-cloud  
+
+⚡ **Fun fact:**  
+I enjoy solving problems, building real-world projects, and exploring new technologies!  
+
+---
+
+## 🔗 Connect with me
+<p align="left">
+<a href="https://github.com/Coder-o-cloud" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-o-cloud&layout=compact" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Coder-o-cloud&show_icons=true&count_private=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-o-cloud&theme=dark" />
+</p>
+
+---
+
+✅ **Want this upgraded further?**  
+I can enhance your README with:  
+- ✨ Animated typing text  
+- 🔥 Gradient section headers  
+- 🎨 Custom tech badges  
+- 🚀 Project showcase cards  
+- 🌈 Visitor counter  
+
+Just tell me what you want next.
