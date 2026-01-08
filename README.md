@@ -66,8 +66,12 @@ I enjoy solving problems, building real-world projects, and exploring new techno
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-o-cloud&theme=dark" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-o-cloud&theme=dark&hide_border=true" 
+    alt="GitHub Streak" 
+  />
 </p>
 
 ---
