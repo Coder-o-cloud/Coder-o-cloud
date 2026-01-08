@@ -47,13 +47,21 @@ I enjoy solving problems, building real-world projects, and exploring new techno
 ---
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-o-cloud&layout=compact" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Coder-o-cloud&show_icons=true&theme=dark&hide_border=true" 
+    alt="GitHub Stats" 
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder-o-cloud&show_icons=true&count_private=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-o-cloud&layout=compact&theme=dark&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
+
 
 ---
 
