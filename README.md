@@ -6,7 +6,7 @@
 
 # ✦ ARITRA DUTTA ✦
 
-### `Frontend Developer` · `JavaScript Enthusiast` · `Digital Realm Builder`
+### `Full-Stack Developer` · `JavaScript Enthusiast` · `Digital Realm Builder`
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Crafting+interfaces+with+code+%26+curiosity.;Turning+ideas+into+interactive+experiences.;Build.+Break.+Learn.+Rebuild.;The+next+chapter+is+already+being+built..." alt="Typing animation" />
 
@@ -42,18 +42,19 @@
 
 ## 🧭 About Me
 
-I'm **Aritra Dutta**, a frontend-focused developer who enjoys turning ideas into clean, interactive and visually intentional digital experiences.
+I'm **Aritra Dutta**, a full-stack developer who enjoys building complete digital experiences — from polished interfaces and frontend logic to APIs, servers, databases and deployment.
 
 I enjoy the intersection of **design, logic and experimentation** — taking an empty screen and gradually turning it into something useful.
 
 ### Currently exploring
 
-- ⚡ JavaScript and modern frontend development
-- ⚛️ React and reusable component architecture
-- 🔗 APIs and full-stack workflows
+- ⚡ Modern JavaScript and full-stack web development
+- ⚛️ React, reusable components and responsive UI
+- 🔗 REST APIs, Node.js and Express
+- 🗄️ MongoDB and database-backed applications
 - 🎨 UI/UX, responsive design and accessibility
 - 🧠 Practical AI × Web experiments
-- 🚀 Turning personal projects into polished products
+- 🚀 Turning ideas into deployable products
 
 ### My development loop
 
@@ -87,11 +88,11 @@ I enjoy the intersection of **design, logic and experimentation** — taking an 
 
 <td width="40%" valign="top">
 
-## 🛡️ Developer Compass
+## 🛡️ Full-Stack Developer Compass
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND-0B1220?style=for-the-badge&labelColor=172554&color=38BDF8" />
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-0B1220?style=for-the-badge&labelColor=172554&color=38BDF8" />
 
 <br><br>
 
@@ -144,7 +145,7 @@ STATUS
 
 <br><br>
 
-`HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `Python` · `Git`
+`HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `Python` · `REST APIs` · `Git`
 
 </div>
 
@@ -154,7 +155,7 @@ STATUS
 
 <div align="center">
 
-*Projects are where the theory becomes real.*
+*Ideas are where the journey starts. Full-stack projects are where they become real.*
 
 </div>
 
@@ -166,7 +167,7 @@ STATUS
 
 A collaboration platform concept designed to help students find teammates, collaborate efficiently and build real project experience.
 
-**Stack:** `JavaScript` · `MERN`
+**Stack:** `JavaScript` · `React` · `Node.js` · `Express` · `MongoDB`
 
 **[↗ Explore CollabVerse](https://github.com/Coder-o-cloud/CollabVerse)**
 
@@ -178,7 +179,7 @@ A collaboration platform concept designed to help students find teammates, colla
 
 A web-based movie discovery project exploring recommendation logic, movie data and user-friendly presentation.
 
-**Stack:** `HTML` · `CSS` · `Python` · `API`
+**Stack:** `HTML` · `CSS` · `JavaScript` · `Python` · `API`
 
 **[↗ Explore Movie Recommender](https://github.com/Coder-o-cloud/Movie_recommender_tool)**
 
@@ -277,9 +278,9 @@ Node · Express · DB
 <td align="center">
 
 ### `05`
-**PRODUCT**
+**FULL-STACK**
 
-Build · Deploy · Iterate
+Integrate · Deploy · Iterate
 
 </td>
 <td>→</td>
@@ -304,11 +305,11 @@ CURRENT CHAPTER
      │               │               │
      └───────────────┼───────────────┘
                      ↓
-                  APIs
+               Node + APIs
                      ↓
-               Full Stack
+             Express + Database
                      ↓
-              Bigger Products
+              Full-Stack Products
 ```
 
 </div>
@@ -319,11 +320,12 @@ CURRENT CHAPTER
 
 | Status | Quest | Direction |
 |:---:|:---|:---|
-| 🟢 | **Frontend Craft** | Better responsive and accessible interfaces |
-| 🟢 | **JavaScript** | Stronger fundamentals, APIs and async flows |
-| 🟡 | **React** | Reusable and scalable component architecture |
-| 🟡 | **Full Stack** | Connect interfaces with reliable backends |
-| 🔵 | **Production** | Turn experiments into deployable products |
+| 🟢 | **Frontend Craft** | Responsive, accessible and polished interfaces |
+| 🟢 | **JavaScript** | Stronger fundamentals, async flows and APIs |
+| 🟢 | **Backend Engineering** | Node.js, Express and REST APIs |
+| 🟡 | **Databases** | MongoDB and data-driven applications |
+| 🟡 | **Full-Stack Products** | Connect frontend, backend and data layers |
+| 🔵 | **Production** | Deploy, maintain and iterate on real projects |
 | 🔵 | **AI × Web** | Explore useful AI-powered experiences |
 
 ---
