@@ -3,34 +3,28 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
 
 jobs:
   generate:
-    name: Generate Snake Animation
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: Coder-o-cloud
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=#7DD3FC&color_dots=#0B1220,#12304A,#1E4E6E,#38BDF8,#FBBF24
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FBBF24&color_dots=#020617,#0F2942,#164E63,#38BDF8,#FBBF24
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish snake
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
+          build_dir: dist
+        env:
+          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          BUILD_DIR: dist
