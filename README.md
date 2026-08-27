@@ -4,7 +4,7 @@
 
 <br><br>
 
-# ⚔️ ARITRA DUTTA
+# ⚔️ ARITRA DUTTA ⚔️
 
 ### `FULL-STACK DEVELOPER`
 
